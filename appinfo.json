@@ -1,0 +1,39 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "lindemda@gmail.com",
+    "enableMultiJS": false,
+    "longName": "Blue Medora Watch",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/icon.png",
+                "menuIcon": true,
+                "name": "icon",
+                "targetPlatforms": null,
+                "type": "png"
+            },
+            {
+                "file": "images/bm_background.png",
+                "name": "BM_BACKGROUND",
+                "targetPlatforms": null,
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Blue Medora Watch",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "4ef09829-7ab1-449e-8774-03044c62a9d7",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
